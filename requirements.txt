@@ -1,0 +1,9 @@
+docling
+unstructured[all-docs]
+pillow
+pydantic
+lxml
+matplotlib
+ipykernel
+PyMuPDF
+unstructured-pytesseract
