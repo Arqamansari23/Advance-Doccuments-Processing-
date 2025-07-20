@@ -5,6 +5,9 @@ A comprehensive comparison of modern PDF processing libraries: **Docling**, **Un
 ## 📚 Library Overview
 
 ### 🔥 Docling
+
+![Alt text](./photos/Docling.png)
+
 **IBM's next-generation document processing library**
 - Advanced AI-powered document understanding
 - Superior table structure recognition and extraction
